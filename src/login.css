@@ -1,0 +1,10 @@
+section{
+    background-color: #eee;
+}
+
+.card text-black {
+    border-radius: 25px;
+}
+.card-body{
+    background-color: azure;
+}
