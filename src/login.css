@@ -1,10 +1,4 @@
-section{
-    background-color: #eee;
-}
-
-.card text-black {
-    border-radius: 25px;
-}
-.card-body{
-    background-color: azure;
+.text-center{
+    padding-left: 2.5rem; 
+    padding-right: 2.5rem;
 }
