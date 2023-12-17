@@ -1,4 +1,21 @@
-.text-center{
-    padding-left: 2.5rem; 
-    padding-right: 2.5rem;
+section{
+    background-color:  #eee;
+}
+.class{
+    border-radius: 1rem;
+}
+.img-fluid{
+    border-radius: 1rem 0 0 1rem;
+}
+.fas{
+    color: #ff6219;
+}
+.fw-normal{
+    letter-spacing: 1px;
+}
+.mb-5{
+    color: #393f81;
+}
+.reg{
+    color: #393f81;
 }
